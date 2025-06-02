@@ -1,3 +1,4 @@
 data/
 .vscode/
 venv/
+src/scripts/__pycache__/
